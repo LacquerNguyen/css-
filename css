@@ -1,1 +1,4 @@
-css
+  // chuyển động vùng div
+  - moz-animation: bounce-scroll 2.5s infinite 1s;
+  - webkit-animation: bounce-scroll 2.5s infinite 1s;
+  - animation: bounce-scroll 2.5s infinite 1s;
